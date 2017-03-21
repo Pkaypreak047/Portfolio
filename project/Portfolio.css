@@ -1,0 +1,55 @@
+
+
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.logo{
+  align-items: center;
+}
+
+.fullname {
+color: blue;
+font-family: 'Helvetica Neue', sans-serif;
+font-size: 3vw; font-weight: bold;
+letter-spacing: -1px;
+line-height: 1;
+text-align: center;
+}
+
+.tab-pane{
+  border: 20px;
+  margin: 20px;
+  column-rule-color: black;
+  font-size: 2vw;
+  font-weight: bold;
+
+}
+
+.slide {
+  background-size: cover;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.academic{
+  text-align: left;
+  color: black;
+}
+
+.favourite{
+  text-align: left;
+  color: black;
+}
+
+.info{
+  text-align: left;
+}
+.success{
+  text-align: left;
+}
+.danger{
+  text-align: left;
+}
